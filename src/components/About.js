@@ -32,6 +32,7 @@ function About() {
             className="tilt"
             src="../assets/images/venkatesh.jpg"
             alt="Shivasaiprasad Akula"
+            // style={{ filter: "grayscale(100%)" }}
           />
 
           <div className="resumebtn">
@@ -53,29 +54,25 @@ function About() {
           </h3>
           <span className="tag">Software Developer</span>
 
+          <p>An overall experience of 1.5 years in software development, including 9 months 
+            as a Full Stack Web Development (MERN) Teaching Assistant, 
+            providing mentorship and technical guidance.</p>
           <p>
-            An overall experience of 1.5 years in software development and 1.2 years Experience 
-            years as a FullStack Web Development(MERN) Teaching Assistant.
+          Completed a Full Stack Web Development (MERN) course through Coding Ninjas' 
+          online platform and worked as a Teaching Assistant, specializing in MongoDB, 
+          Express, React.js, and Node.js. Gained in-depth knowledge of the MERN stack while 
+          providing career guidance and mentorship.
           </p>
-          <p>
-            Began as a Junior Associate at 3i Infotech Ltd, where after 6
-            months, was promoted to Team Lead. Led the migration of trading
-            accounts from PCS Securities Ltd to Kotak Securities Ltd.
-          </p>
-          <p>
-            Completed a 4.0 tech course in JavaScript and Full Stack
-            Development. Secured an internship as a MERN Stack Developer at
-            Spotlet Solutions Pvt Ltd for 6 months, gaining hands-on experience
-            in building full-stack applications.
-          </p>
+
+      
           <p>
             Later transitioned to a Full Stack Developer role at SR Edu
-            Technologies Pvt Ltd for 1 year, where I developed 3 major
+            Technologies Pvt Ltd for 1.5 year, where I developed 3 major
             applications: CRM, LMS, and School KYC systems, using React,
             Node.js, and PHP Laravel.
           </p>
           <p>
-            Proficient in HTML, CSS, JavaScript, React, Node.js, MySQL, PHP,
+            Proficient in HTML, CSS, JavaScript, ReactJs, Node.js, MySQL, PHP,
             Laravel, Git, and Scrum methodologies. Experienced in leading teams
             and managing end-to-end application development projects.
           </p>
@@ -86,7 +83,7 @@ function About() {
                 <span> Age: </span> {age} years
               </p>
               <p>
-                <span> Phone : </span> +91 9502493266
+                <span> Phone : </span> +91 8978451860
               </p>
             </div>
           </div>
