@@ -7,6 +7,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import Skills from "./Skills";
 import Contact from "./Contact";
+import Projects from "./Projects";
 
 function MainPage() {
   return (
@@ -23,6 +24,9 @@ function MainPage() {
       </section>
       <section className="experience" id="experience">
         <Experience />
+      </section>
+      <section className="experience" id="projects">
+        <Projects />
       </section>
       <section className="skills" id="skills">
         <Skills />

@@ -23,96 +23,74 @@ function Education() {
         <div className="row">
           <div className="column">
             <img
-              onClick={() => handleImageClick("../assets/images/Html.jpg")}
+              onClick={() => handleImageClick("../assets/images/python Certificate.jpg")}
               style={{ paddingBottom: 20 }}
               width="90%"
               height="90%"
-              src="../assets/images/Html.jpg"
-              alt="Html Certificate"
+              src="../assets/images/python Certificate.jpg"
+              alt="python Certificate"
             />
-            <h2>Html,CSS Certification From NxtWave</h2>
+            <h2>Python Certification</h2>
           </div>
           <div className="column">
             <img
-              onClick={() => handleImageClick("../assets/images/Bootstrap.jpg")}
+              onClick={() => handleImageClick("../assets/images/DSA Certificate.jpg")}
               style={{ paddingBottom: 20 }}
               width="90%"
               height="90%"
-              src="../assets/images/Bootstrap.jpg"
-              alt="Bootstrap Certificate"
+              src="../assets/images/DSA Certificate.jpg"
+              alt="DSA Certificate"
             />
-            <h2>Bootstrap Certification From NxtWave</h2>
+            <h2>DSA Certification</h2>
           </div>
           <div className="column">
             <img
               onClick={() =>
-                handleImageClick("../assets/images/Javascript.jpg")
+                handleImageClick("../assets/images/Frontend Certificate.jpg")
               }
               style={{ paddingBottom: 20 }}
               width="90%"
               height="90%"
-              src="../assets/images/Javascript.jpg"
-              alt="Javascript Certificate"
+              src="../assets/images/Frontend Certificate.jpg"
+              alt="Frontend Certificate"
             />
-            <h2>Javascript Certification From NxtWave</h2>
+            <h2>FrontEnd Certification</h2>
           </div>
           <div className="column">
             <img
-              onClick={() => handleImageClick("../assets/images/React.jpg")}
+              onClick={() => handleImageClick("../assets/images/Nodejs Certificate.jpg")}
               style={{ paddingBottom: 20 }}
-              width="90%"
-              height="90%"
-              src="../assets/images/React.jpg"
-              alt="React Certificate"
+              width="80%"
+              height="80%"
+              src="../assets/images/Nodejs Certificate.jpg"
+              alt="Nodejs Certificate"
             />
-            <h2>React Js Certification From NxtWave</h2>
+            <h2>Backend Certification</h2>
           </div>
         </div>
 
         <div className="row">
           <div className="column">
             <img
-              onClick={() => handleImageClick("../assets/images/Node.jpg")}
-              style={{ paddingBottom: 20 }}
-              width="90%"
-              height="90%"
-              src="../assets/images/Node.jpg"
-              alt="Node Certificate"
+              onClick={() => handleImageClick("../assets/images/Python Internship Certificate_pages-to-jpg-0001.jpg")}
+              style={{ paddingBottom: 0 }}
+              width="50%"
+              height="50%"
+              src="../assets/images/Python Internship Certificate_pages-to-jpg-0001.jpg"
+              alt="Python Internship Certification"
             />
-            <h2>Node Js Certification From NxtWave</h2>
+            <h2>Python DSA Internship Certification</h2>
           </div>
           <div className="column">
             <img
-              onClick={() => handleImageClick("../assets/images/Python.jpg")}
-              style={{ paddingBottom: 20 }}
-              width="90%"
-              height="90%"
-              src="../assets/images/Python.jpg"
-              alt="Python Certificate"
+              onClick={() => handleImageClick("../assets/images/FullStack InternshipCertificate_page-0001.jpg")}
+              style={{ paddingBottom: 20}}
+              width="50%"
+              height="50%"
+              src="../assets/images/FullStack InternshipCertificate_page-0001.jpg"
+              alt="FullStack Web Development Certificate"
             />
-            <h2>Python Certification From NxtWave</h2>
-          </div>
-          <div className="column">
-            <img
-              onClick={() => handleImageClick("../assets/images/Sql.jpg")}
-              style={{ paddingBottom: 20 }}
-              width="90%"
-              height="90%"
-              src="../assets/images/Sql.jpg"
-              alt="SQL Certificate"
-            />
-            <h2>SQL Certification From NxtWave</h2>
-          </div>
-          <div className="column">
-            <img
-              onClick={() => handleImageClick("../assets/images/Git.jpg")}
-              style={{ paddingBottom: 20 }}
-              width="90%"
-              height="90%"
-              src="../assets/images/Git.jpg"
-              alt="Git Certificate"
-            />
-            <h2>Git Certification From NxtWave</h2>
+            <h2>FullStack Web Development Internship Certification</h2>
           </div>
         </div>
       </div>

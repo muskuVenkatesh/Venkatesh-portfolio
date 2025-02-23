@@ -67,7 +67,7 @@ function Skills() {
           <div className="bar">
             <div className="info">
               <img src="../assets/images/mongo_icon.png" alt="Mongo" />
-              <span>Mongo</span>
+              <span>MongoDB</span>
             </div>
           </div>
           <div className="bar">
@@ -85,7 +85,7 @@ function Skills() {
                 src="https://img.icons8.com/color/48/000000/mysql-logo.png"
                 alt="My Sql"
               />
-              <span>My SQL</span>
+              <span>MySQL</span>
             </div>
           </div>
           <div className="bar">
@@ -136,7 +136,7 @@ function Skills() {
               <span>CodeCommit</span>
             </div>
           </div>
-          <div className="bar">
+          {/* <div className="bar">
             <div className="info">
               <img
                 src="https://img.icons8.com/color/48/amazon-web-services.png"
@@ -207,7 +207,7 @@ function Skills() {
               />
               <span>Pipeline</span>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

@@ -31,7 +31,7 @@ function About() {
             draggable="false"
             className="tilt"
             src="../assets/images/venkatesh.jpg"
-            alt="Shivasaiprasad Akula"
+            alt="Venkatesh Musku"
             // style={{ filter: "grayscale(100%)" }}
           />
 

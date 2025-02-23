@@ -11,57 +11,46 @@ function Experience() {
         <div className="container left">
           <div className="content">
             <div className="tag">
-              <h2>3i Infotech BPO LTD</h2>
+              <h2>Coding Ninjas</h2>
             </div>
             <div className="desc">
-              <h3>Junior Associate</h3>
-              <p>Sep 2019 - June 2021</p>
+              <h3>Python DSA Teaching Assistant(TA)</h3>
+              <p> Dec 2022 - May 2023</p>
             </div>
           </div>
         </div>
         <div className="container right">
           <div className="content">
             <div className="tag">
-              <h2>3i Infotech BPO LTD</h2>
+              <h2>Coding Ninjas</h2>
             </div>
             <div className="desc">
-              <h3>Bakc Office Support (Team Lead)</h3>
-              <p>May 2021 - April 2022</p>
+              <h3>FullStack Web Development(MERN) Teaching Assistant(TA) </h3>
+              <p>July 2023 - Nov 2023</p>
             </div>
           </div>
         </div>
+
+    
 
         <div className="container left">
-          <div className="content">
-            <div className="tag">
-              <h2>Spotlet Solutions Pvt LTD</h2>
-            </div>
-            <div className="desc">
-              <h3>Junior Software Developer (MERN Stack)</h3>
-              <p>Apr 2023 - Oct 2023</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="container right">
           <div className="content">
             <div className="tag">
               <h2>SR Edu Technologies Pvt Ltd</h2>
             </div>
             <div className="desc">
               <h3>Software Developer (Full Stack)</h3>
-              <p>Nov 2023 - Present</p>
+              <p>Nov 2023 - Jan 2025</p>
             </div>
+            <div className='desc'>
+            <ul>
+            <li>Developed web applications using React.js, Laravel, Nodejs ,Express, MongoDB, MySql, and PostgreSQL</li>
+            
+          </ul>
+          </div>
           </div>
         </div>
       </div>
-
-      {/* <div class="morebtn">
-        <a href="/experience" class="btn">
-          <span>View All</span>
-          <i class="fas fa-arrow-right"></i>
-        </a>
-      </div> */}
     </>
   );
 }

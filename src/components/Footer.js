@@ -6,7 +6,7 @@ function Footer() {
       <section className="footer">
         <div className="box-container">
           <div className="box">
-            <h3>Shivasaiprasad Akula</h3>
+            <h3>Venkateshwarlu Musku</h3>
             <p>
               Thank you for visiting my personal portfolio website. Connect with
               me over socials. <br /> <br /> Keep Rising 🚀. | Learn by Doing{" "}
@@ -36,43 +36,43 @@ function Footer() {
             <h3>Contact Info</h3>
             <p>
               {" "}
-              <i className="fas fa-phone"></i>+91 9502493266
+              <i className="fas fa-phone"></i>+91 8978451860
             </p>
             <p>
               {" "}
               <i className="fas fa-envelope"></i>
-              akulashivasaiprasad3821@gmail.com
+              venkateshmusku6@gmail.com
             </p>
             <p>
               {" "}
-              <i className="fas fa-map-marked-alt"></i>Jangaon,
+              <i className="fas fa-map-marked-alt"></i>Paidimadugu,
               Telangana-India
             </p>
             <div className="share">
               <a
-                href="https://www.linkedin.com/in/akulashivsaiprasad/"
+                href="https://www.linkedin.com/in/venkateshwarlu-musku-179a9a247/"
                 className="fab fa-linkedin"
                 aria-label="LinkedIn"
                 target="_blank" rel="noreferrer"
               ></a>
               <a
-                href="https://github.com/ShivasaiprasadAkula"
+                href="https://github.com/muskuVenkatesh"
                 className="fab fa-github"
                 aria-label="GitHub"
                 target="_blank" rel="noreferrer"
               ></a>
               <a
-                href="https://www.instagram.com/chintugoud_1/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26hl%3Den%26__coig_login%3D1"
+                href="https://www.instagram.com/_nobody__6ix/"
                 className="fab fa-instagram"
                 aria-label="Twitter"
                 target="_blank" rel="noreferrer"
               ></a>
-              <a
+              {/* <a
                 href="https://www.facebook.com/chintu.chintuakula"
                 className="fab fa-facebook"
                 aria-label="Facebook"
                 target="_blank" rel="noreferrer"
-              ></a>
+              ></a> */}
             </div>
           </div>
         </div>
